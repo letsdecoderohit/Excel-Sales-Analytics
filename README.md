@@ -76,4 +76,3 @@ This project encapsulates a comprehensive approach to creating insightful and ac
 
 ---
 For more details, check the individual reports linked above.
-```
